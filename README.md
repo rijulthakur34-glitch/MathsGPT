@@ -53,12 +53,4 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment to Streamlit Cloud
 
-1. Log in to [Streamlit Community Cloud](https://share.streamlit.io/).
-2. Click **Create app** and select this repository.
-3. In **Advanced Settings**, add your environment variables under **Secrets**:
-   ```toml
-   GROQ_API_KEY = "your_actual_groq_api_key_here"
-   ```
-4. Click **Deploy**!
